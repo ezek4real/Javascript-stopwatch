@@ -1,0 +1,51 @@
+.wrapper{
+  margin: auto;
+  display: relative;
+  width: 40%;
+  padding: 12px;
+  text-align: center;
+  border-radius: 12px;
+}
+
+#test {
+  color: gray;
+  margin: auto;
+  background: green;
+  color: white;
+  font-size: 2em;
+  width: 100%;
+  padding: 12px;
+  text-align: center;
+  display: flex;
+  border-radius: 12px;
+}
+
+.test {
+  color: gray;
+  margin: auto;
+  background: green;
+  color: white;
+  font-size: 2em;
+  width: 100%;
+  padding: 12px;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.btn{
+  color: gray;
+  margin: auto;
+  display: relative;
+  background: green;
+  color: white;
+  font-size: 2em;
+  width: 100%;
+  padding: 12px;
+  text-align: center;
+  border-radius: 12px;
+}
+.stopwatch{
+   text-align: center;
+   width: 30%;
+   margin: auto;
+}
