@@ -48,3 +48,8 @@ reset.addEventListener('click', function(){
    mildiv.innerHTML = n;
    document.querySelector('.btn').textContent= "Start";
 });
+
+
+function test(){
+  if(true){console.log("Nothing");}
+}
