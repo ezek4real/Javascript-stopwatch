@@ -50,6 +50,7 @@ reset.addEventListener('click', function(){
 });
 
 
-function test(){
-  if(true){console.log("Nothing");}
+function test(n){
+  n <= 0 ? return n : return test(n);
+  n--;
 }
